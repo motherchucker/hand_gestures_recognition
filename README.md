@@ -38,5 +38,5 @@ I prepoznavanje vrijedi za obje strane, odnosno ruke:
 
 ## **Literatura**:
 
-_Tensorflow/handpose_ : https://www.npmjs.com/package/@tensorflow-models/handpose
-_Fingerpose_ : https://github.com/andypotato/fingerpose
+- _Tensorflow/handpose_ : https://www.npmjs.com/package/@tensorflow-models/handpose
+- _Fingerpose_ : https://github.com/andypotato/fingerpose
