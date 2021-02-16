@@ -32,7 +32,6 @@ RaisedHandGesture.addDirection(
 // Index
 
 RaisedHandGesture.addCurl(Finger.Index, FingerCurl.NoCurl, 1.0);
-//RaisedHandGesture.addDirection(Finger.Index, FingerDirection.VerticalUp, 1.0);
 RaisedHandGesture.addDirection(
   Finger.Index,
   FingerDirection.DiagonalUpLeft,
@@ -51,7 +50,6 @@ RaisedHandGesture.addDirection(Finger.Middle, FingerDirection.VerticalUp, 1.0);
 // Ring finger
 
 RaisedHandGesture.addCurl(Finger.Ring, FingerCurl.NoCurl, 1.0);
-//RaisedHandGesture.addDirection(Finger.Index, FingerDirection.VerticalUp, 1.0);
 RaisedHandGesture.addDirection(
   Finger.Ring,
   FingerDirection.DiagonalUpLeft,
@@ -66,7 +64,6 @@ RaisedHandGesture.addDirection(
 // Pinky
 
 RaisedHandGesture.addCurl(Finger.Pinky, FingerCurl.NoCurl, 1.0);
-//RaisedHandGesture.addDirection(Finger.Index, FingerDirection.VerticalUp, 1.0);
 RaisedHandGesture.addDirection(
   Finger.Pinky,
   FingerDirection.DiagonalUpLeft,

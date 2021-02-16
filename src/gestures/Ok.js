@@ -11,12 +11,9 @@ export const OkGesture = new GestureDescription("ok");
 OkGesture.addCurl(Finger.Thumb, FingerCurl.NoCurl, 1.0);
 OkGesture.addDirection(Finger.Thumb, FingerDirection.HorizontalRight, 0.8);
 OkGesture.addDirection(Finger.Thumb, FingerDirection.HorizontalLeft, 0.8);
-//OkGesture.addDirection(Finger.Thumb, FingerDirection.DiagonalUpLeft, 1.0);
-//OkGesture.addDirection(Finger.Thumb, FingerDirection.DiagonalUpRight, 1.0);
+
 // Index
 OkGesture.addCurl(Finger.Index, FingerCurl.HalfCurl, 1.0);
-//OkGesture.addDirection(Finger.Index, FingerDirection.HorizontalRight, 0.9);
-//OkGesture.addDirection(Finger.Index, FingerDirection.HorizontalLeft, 0.9);
 OkGesture.addDirection(Finger.Index, FingerDirection.DiagonalDownLeft, 0.9);
 OkGesture.addDirection(Finger.Index, FingerDirection.DiagonalDownRight, 0.9);
 
